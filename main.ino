@@ -9,7 +9,7 @@
 #define refresh_cycle_delay 10
 
 #define saddr 0x57 // df * - sensor
-#define oaddr 0x3C // df * - oled
+// #define oaddr 0x3C // df * - oled
 // #define bsaddr 0x6B // ndf * - lcd
 
 #define channel 115200
